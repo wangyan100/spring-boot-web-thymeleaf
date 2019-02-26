@@ -1,6 +1,6 @@
-/Users/yanwang/project/spring-boot-examples/spring-boot-web-thymeleaf/src/main/java/com/neo/repository/MessageRepository.java
-/Users/yanwang/project/spring-boot-examples/spring-boot-web-thymeleaf/src/main/java/com/neo/repository/InMemoryMessageRepository.java
-/Users/yanwang/project/spring-boot-examples/spring-boot-web-thymeleaf/src/main/java/com/neo/controller/MessageController.java
-/Users/yanwang/project/spring-boot-examples/spring-boot-web-thymeleaf/src/main/java/com/neo/ThymeleafApplication.java
-/Users/yanwang/project/spring-boot-examples/spring-boot-web-thymeleaf/src/main/java/com/neo/controller/MyErrorController.java
-/Users/yanwang/project/spring-boot-examples/spring-boot-web-thymeleaf/src/main/java/com/neo/model/Message.java
+/Users/yanwang/project/spring-boot-web-thymeleaf/src/main/java/com/neo/model/Message.java
+/Users/yanwang/project/spring-boot-web-thymeleaf/src/main/java/com/neo/controller/MyErrorController.java
+/Users/yanwang/project/spring-boot-web-thymeleaf/src/main/java/com/neo/controller/MessageController.java
+/Users/yanwang/project/spring-boot-web-thymeleaf/src/main/java/com/neo/repository/InMemoryMessageRepository.java
+/Users/yanwang/project/spring-boot-web-thymeleaf/src/main/java/com/neo/repository/MessageRepository.java
+/Users/yanwang/project/spring-boot-web-thymeleaf/src/main/java/com/neo/ThymeleafApplication.java
