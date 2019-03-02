@@ -2,6 +2,5 @@ com/neo/repository/InMemoryMessageRepository.class
 com/neo/model/Message.class
 com/neo/repository/MessageRepository.class
 com/neo/ThymeleafApplication$1.class
-com/neo/controller/MyErrorController.class
 com/neo/controller/MessageController.class
 com/neo/ThymeleafApplication.class
